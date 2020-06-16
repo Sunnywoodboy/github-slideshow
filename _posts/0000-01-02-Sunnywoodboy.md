@@ -2,4 +2,4 @@ layout : slide
 title: "Welcome to our second slide!"
 
 Have Fun
-Use the left arrow to go back!
+Im waiting, please use the Arrow key
